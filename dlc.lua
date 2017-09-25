@@ -53,7 +53,7 @@ return {
 			icon = "pointshop2/letters1.png",
 			name = "Texthat",
 			isOwned = function() 
-				return Pointshop2.AdventCalendar != nil
+				return Pointshop2.TexthatPersistence != nil
 			end
 		},
 	}, 
