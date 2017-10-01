@@ -59,14 +59,6 @@ return {
 	}, 
 	["Third Party"] = {
 		{
-			dlcLink = "https://scriptfodder.com/scripts/view/11",
-			name = "Achievements",
-			icon = "pointshop2/read2.png",
-			isOwned = function( )
-				return Pointshop2.AchievementsModel != nil
-			end
-		},
-		{
 			dlcLink = "https://scriptfodder.com/scripts/view/87",
 			name = "Betting System", 
 			icon = "pointshop2/dollar103.png",
