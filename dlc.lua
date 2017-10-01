@@ -67,14 +67,6 @@ return {
 			end
 		},
 		{
-			dlcLink = "https://scriptfodder.com/scripts/view/12",
-			name = "Masks",
-			icon = "pointshop2/user6.png",
-			isOwned = function( )
-				return Pointshop2.MaskPersistence != nil
-			end
-		},
-		{
 			dlcLink = "https://scriptfodder.com/scripts/view/87",
 			name = "Betting System", 
 			icon = "pointshop2/dollar103.png",
