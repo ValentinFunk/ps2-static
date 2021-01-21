@@ -1,7 +1,7 @@
 return {
 	["Official"] = {
 		{
-			dlcLink = "https://scriptfodder.com/scripts/view/648",
+			dlcLink = "https://github.com/Kamshak/ps2-boosters",
 			name = "Boosters",
 			icon = "pointshop2/vip2.png",
 			isOwned = function( )
@@ -9,7 +9,7 @@ return {
 			end
 		},
 		{
-			dlcLink = "https://scriptfodder.com/scripts/view/1104",
+			dlcLink = "https://github.com/Kamshak/ps2-drops",
 			name = "Drops & Crates",
 			icon = "pointshop2/box39.png",
 			isOwned = function( )
@@ -17,7 +17,7 @@ return {
 			end
 		},
 		{
-			dlcLink = "https://scriptfodder.com/scripts/view/677",
+			dlcLink = "https://github.com/Kamshak/ps2-permaweaps",
 			icon = "pointshop2/crime1.png",
 			name = "Permanent Weapons",
 			isOwned = function( )
@@ -25,7 +25,7 @@ return {
 			end
 		},
 		{
-			dlcLink = "https://scriptfodder.com/scripts/view/645",
+			dlcLink = "https://github.com/Kamshak/ps2-gamble",
 			icon = "pointshop2/favourite2.png",
 			name = "Gambling",
 			isOwned = function( )
@@ -33,7 +33,7 @@ return {
 			end
 		},
 		{
-			dlcLink = "https://www.gmodstore.com/scripts/view/2015",
+			dlcLink = "https://github.com/Kamshak/ps2_airdrops",
 			icon = "pointshop2/flying7.png",
 			name = "Airdrops",
 			isOwned = function()
@@ -49,7 +49,7 @@ return {
 			end
 		},
 		{
-			dlcLink = "https://www.gmodstore.com/scripts/view/3456",
+			dlcLink = "https://github.com/Kamshak/ps2-texthat",
 			icon = "pointshop2/letters1.png",
 			name = "Texthat",
 			isOwned = function() 
